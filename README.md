@@ -18,9 +18,11 @@ I work across the whole stack, from APIs and web apps to cross-platform mobile a
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Web:** Node.js · React · Remix · Angular · Next.js · TypeScript · Tailwind CSS
-**Mobile:** React Native · Expo · NativeWind · Zustand · TanStack Query · i18next
-**Services:** Firebase · RevenueCat · AdMob
+| | Technologies |
+| --- | --- |
+| 🌐 **Web** | Node.js · React · Remix · Angular · Next.js · TypeScript · Tailwind CSS |
+| 📱 **Mobile** | React Native · Expo · NativeWind · Zustand · TanStack Query · i18next |
+| ☁️ **Services** | Firebase · RevenueCat · AdMob |
 
 ## 🚀 What I do
 
@@ -41,8 +43,9 @@ I work across the whole stack, from APIs and web apps to cross-platform mobile a
 
 ## 🌱 Currently
 
-- 🔭 Building and publishing mobile apps for the international market
-- 🌱 Going deeper into on-device processing and app monetization
+- 🔭 Building and shipping mobile apps with React Native & Expo for a worldwide audience
+- 🤖 Exploring on-device processing (audio, image) to build fast, private, offline-capable apps
+- 🧰 Maintaining [rn-starter](https://github.com/SoroMoise/rn-starter), my production-ready React Native template
 - 👯 Open to collaborations and interesting projects
 
 ## 📫 Let's connect
