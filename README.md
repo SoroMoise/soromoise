@@ -9,6 +9,7 @@ I work across the whole stack, from APIs and web apps to cross-platform mobile a
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -17,7 +18,7 @@ I work across the whole stack, from APIs and web apps to cross-platform mobile a
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Web:** Node.js · React · Remix · Next.js · TypeScript · Tailwind CSS
+**Web:** Node.js · React · Remix · Angular · Next.js · TypeScript · Tailwind CSS
 **Mobile:** React Native · Expo · NativeWind · Zustand · TanStack Query · i18next
 **Services:** Firebase · RevenueCat · AdMob
 
@@ -46,6 +47,8 @@ I work across the whole stack, from APIs and web apps to cross-platform mobile a
 
 ## 📫 Let's connect
 
+- 🌐 Portfolio: [codeurdivoire.com](https://codeurdivoire.com/)
+- 🔗 LinkedIn: [linkedin.com/in/moise-soro](https://linkedin.com/in/moise-soro)
 - 💼 Browse my repositories: [github.com/SoroMoise](https://github.com/SoroMoise?tab=repositories)
 - 💬 Ask me about: React, React Native, Expo, Remix, Node.js
 
